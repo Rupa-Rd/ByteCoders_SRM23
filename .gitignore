@@ -1,0 +1,4 @@
+__pycache__
+.venv
+effnet.h5
+logs
