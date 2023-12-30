@@ -75,7 +75,7 @@ It is a Deep-learning concept that is used in image clarification, image recogni
 <b>Version Control and Collaboration:</b><br>
 Git: A distributed version control system for managing code and collaborating with a team.<br>
 <h2> Screenshots </h2>
-<img src="![Screenshot 2023-10-22 091653](https://github.com/Rupa-Rd/ByteCoders_SRM23/assets/102663541/c79872ce-a258-4bd9-8042-47afce2ccf58)"></img><br>
+<img src="output.png"></img><br>
 
 <h2> The 'WOW FACTOR' of DR VISION </h2>
 The "wow factor" of this AI-powered diabetic retinopathy detection system is its potential to transform the landscape of eye care, saving vision, and improving the lives of countless individuals affected by diabetes.
