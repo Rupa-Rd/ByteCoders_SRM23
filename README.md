@@ -96,7 +96,7 @@ The "wow factor" of this AI-powered diabetic retinopathy detection system is its
 <h2>Tutorial </h2>
 For further assistance in using DR VISION. Watch this video.👇
 
-<ul><li>Click here to watch </li></ul>
+<ul><li><a href = "https://youtu.be/OshYvyRuWTE">Click here to watch </a></li></ul>
 
 <br>
 <h3><b><center> Healthy Eye , healthy vision </center></b></h3>
